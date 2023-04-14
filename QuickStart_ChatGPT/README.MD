@@ -43,6 +43,8 @@ This Project is about developing an application that uses the OpenAI API to prov
 
 <img width="400" alt="Maze" src="https://user-images.githubusercontent.com/109574120/232165694-70501ef2-e011-430b-aa0b-803d1657ebad.png">
 
+**Detailed Explaination**
 
+[Google Slides](https://github.com/fatemanagori/Use-ChatGPT-to-create-customer-support-website/blob/fatema/QuickStart_ChatGPT/QuickStart%20ChatGPT.pdf)
 
 
